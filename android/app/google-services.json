@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973275002297",
+    "project_id": "shiftmate-a15c2",
+    "storage_bucket": "shiftmate-a15c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973275002297:android:d316b5b9be932bd61bf268",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnrnar4-yioq2bcvKzNaYrKXzsagTrnyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
